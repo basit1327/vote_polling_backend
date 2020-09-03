@@ -1,0 +1,16 @@
+{
+  "name": "vote-polling",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cli-color": "^1.4.0",
+    "express": "~4.16.0",
+    "lodash": "^4.17.15",
+    "mysql": "^2.18.0",
+    "promise-mysql": "^3.2.1",
+    "routes": "^2.1.0"
+  }
+}
